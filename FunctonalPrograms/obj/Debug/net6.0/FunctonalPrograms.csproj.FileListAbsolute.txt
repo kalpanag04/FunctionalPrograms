@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\obj\Debug\net6.0\FunctonalPrograms.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\obj\Debug\net6.0\FunctonalPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\obj\Debug\net6.0\FunctonalPrograms.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\obj\Debug\net6.0\FunctonalPrograms.AssemblyInfo.cs
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\obj\Debug\net6.0\FunctonalPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\bin\Debug\net6.0\FunctonalPrograms.exe
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\bin\Debug\net6.0\FunctonalPrograms.deps.json
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\bin\Debug\net6.0\FunctonalPrograms.runtimeconfig.json
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\bin\Debug\net6.0\FunctonalPrograms.dll
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\bin\Debug\net6.0\FunctonalPrograms.pdb
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\obj\Debug\net6.0\FunctonalPrograms.dll
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\obj\Debug\net6.0\refint\FunctonalPrograms.dll
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\obj\Debug\net6.0\FunctonalPrograms.pdb
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\obj\Debug\net6.0\FunctonalPrograms.genruntimeconfig.cache
+C:\Users\Dell\Desktop\BridgeLabz\FunctonalPrograms\FunctonalPrograms\obj\Debug\net6.0\ref\FunctonalPrograms.dll
